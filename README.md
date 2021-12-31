@@ -1,4 +1,9 @@
-### Hi there 👋
+- 👋 Hi, I’m Randolph, a Data Science enthusiast.
+- 🌱 I’m currently learning Data Science and Machine Learning.
+- 👯 I’m looking to collaborate on any data science project.
+- ⚡ Fun fact: I love data.
+- 📫 How to reach me: randolphrogersja@gmail.com
+
 
 <!--
 **SwattyX/SwattyX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
