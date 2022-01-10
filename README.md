@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Randolph, a Data Science enthusiast.
 - 🌱 I’m currently learning Data Science and Machine Learning.
 - 👯 I’m looking to collaborate on any data science project.
-- ⚡ Fun fact: I love data.
 - 📫 How to reach me: randolphrogersja@gmail.com
 
 
@@ -18,4 +17,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- ⚡ Fun fact: I love data.
 -->
